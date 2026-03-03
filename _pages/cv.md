@@ -9,56 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my full CV [here](/files/CV.pdf).
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer and Information Science, University of Pennsylvania (expected 2026)
+* B.A. in Computer Science, Boston University
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Microsoft** — Research Intern (May 2025 – Aug 2025)
+  * Host: Patrick Xia and Aaron Halfaker
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **AWS AI Labs** — Applied Scientist Intern (May 2024 – Aug 2024)
+  * Host: Kishaloy Halder
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **AWS AI Labs** — Applied Scientist Intern (May 2023 – Aug 2023)
+  * Host: Qiang Ning
+
+* **Tencent AI Labs** — NLP Summer Research Intern (May 2022 – Aug 2022)
+  * Host: Hongming Zhang
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
