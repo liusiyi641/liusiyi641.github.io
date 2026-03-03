@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Siyi Liu"
+title                    : "Siyi Liu's Homepage"
 title_separator          : "-"
 name                     : &name "Siyi Liu"
 description              : &description "Siyi Liu's academic portfolio - PhD student at University of Pennsylvania"
