@@ -72,7 +72,7 @@ Many existing metrics effectively treat evidence as a *single pool*: if **any** 
 
 ConflictScore keeps documents **separate**, so it can flag claims that are *simultaneously supported and contradicted*.
 
-If you want a one-line intuition to reuse in the blog:
+<!-- If you want a one-line intuition to reuse in the blog: -->
 
 > **Faithfulness is not enough when the evidence is inconsistent. Conflict awareness is a distinct skill.**
 
@@ -198,7 +198,7 @@ Add 2 sentences:
 
 ## How to use ConflictScore in practice
 
-If you want a lightweight “recipe” section:
+<!-- If you want a lightweight “recipe” section: -->
 
 ### When ConflictScore is most useful
 - RAG systems answering from **heterogeneous web sources**
