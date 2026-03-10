@@ -25,6 +25,9 @@ Modern LLM systems increasingly answer questions *with retrieved documents* (RAG
 
 **ConflictScore** is built for exactly this situation: when *support and contradiction coexist* in the grounding set, we measure whether the model **acknowledges** that conflict—or confidently picks a side.
 
+
+![Examples of bad vs good responses under conflicting evidence](/images/conflictscore_fig1.pdf)
+
 <!-- FIGURE 1 (from paper): fig:example
 Paste your Figure~\ref{fig:example} here.
 Suggested blog rendering: a wide image + short annotated callout.

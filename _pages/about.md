@@ -16,7 +16,7 @@ My research spans natural language processing and broader artificial intelligenc
 - **Perspectives and biases** — conflicts across different perspectives and opinions [[Multi-Perspective Search](/files/Multi-Perspective%20Search%20Engine.pdf), [MultiOpEd](https://aclanthology.org/2021.naacl-main.344/), [News Framing](https://aclanthology.org/K19-1047/)]
 
 Some of my other ongoing projects include:
-- Teaching LLMs to learn from failures/feedback
+- RL training code models with retrieval
 - Deepfake Video Detection
 - Representation Learning for Authorship Representation
 
