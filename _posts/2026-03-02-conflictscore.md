@@ -26,7 +26,7 @@ Modern LLM systems increasingly answer questions *with retrieved documents* (RAG
 **ConflictScore** is built for exactly this situation: when *support and contradiction coexist* in the grounding set, we measure whether the model **acknowledges** that conflict—or confidently picks a side.
 
 
-![Examples of bad vs good responses under conflicting evidence](/images/conflictscore_fig1.pdf)
+![Examples of bad vs good responses under conflicting evidence](/images/conflictscore_fig1.png)
 
 <!-- FIGURE 1 (from paper): fig:example
 Paste your Figure~\ref{fig:example} here.
@@ -54,6 +54,8 @@ ConflictScore evaluates a model response in three stages:
   and average across claims. (Higher = more contradiction pressure.)
 
 **Lower is better**: fewer conflicted claims, or weaker contradiction.
+
+![Pipeline](/images/conflictscore_fig2.png)
 
 <!-- FIGURE 2 (from paper): fig:pipeline
 Paste your Figure~\ref{fig:pipeline} here (the overview pipeline).
@@ -86,6 +88,8 @@ To systematically evaluate conflict detection, we introduce **ConflictBench**, a
 
 ### Dataset statistics
 
+![calibration stats](/images/conflictscore_fig3.png)
+
 <!-- TABLE A (from paper): tab:calibration_stats
 Paste Table~\ref{tab:calibration_stats} here.
 Recommended: render as markdown table for readability.
@@ -103,6 +107,8 @@ We evaluate the conflict-detection subtask:
 
 ### Main results (conflict detection)
 
+![calibration results](/images/conflictscore_fig4.png)
+
 <!-- TABLE B (from paper): tab:calibration_main
 Paste Table~\ref{tab:calibration_main} here.
 Suggested: keep it as an image (wide table), or convert to markdown if you prefer.
@@ -112,6 +118,8 @@ Callout to include: “Overall accuracy ~93% with strong precision/recall across
 ### Where it fails: local inconsistency inside a single document
 
 Some errors come from *documents that contradict themselves* (e.g., early paragraphs suggest X, conclusion denies X). That can confuse claim–document labeling.
+
+![inconsistency example](/images/conflictscore_fig5.png)
 
 <!-- FIGURE 3 (from paper): tab:example
 Paste Figure~\ref{tab:example} (your “local inconsistency failure case”) here.
@@ -130,6 +138,8 @@ We benchmark multiple models under three prompting strategies:
 - **RAG (Super-Balanced)**: strong, rule-based balanced reporting instruction.
 
 ### Results
+
+![benchmarking result](/images/conflictscore_fig6.png)
 
 <!-- TABLE C (from paper): tab:model_conflict
 Paste Table~\ref{tab:model_conflict} here.
@@ -154,12 +164,16 @@ We compare:
 
 ### Multiple-choice TruthfulQA results
 
+![truthfulqa results](/images/conflictscore_fig7.png)
+
 <!-- TABLE D (from paper): tab:truthfulqa_mc
 Paste Table~\ref{tab:truthfulqa_mc} here.
 Add 1 sentence: “R-RAG consistently improves accuracy across proprietary + open models.”
 -->
 
 ### Why regeneration works: it fixes wrong answers more than it breaks right ones
+
+![truthfulqa analysis](/images/conflictscore_fig8.png)
 
 <!-- TABLE E (from paper): tab:truthfulqa_regeneration_analysis
 Paste Table~\ref{tab:truthfulqa_regeneration_analysis} here.
@@ -169,6 +183,8 @@ Add 1–2 sentences:
 -->
 <!-- 
 ### Qualitative examples: one success, one failure -->
+
+![truthfulqa example](/images/conflictscore_fig9.png)
 
 <!-- FIGURE 4 (from paper): tab:qual_examples
 Paste Figure~\ref{tab:qual_examples} here.
