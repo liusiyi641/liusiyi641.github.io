@@ -164,8 +164,8 @@ Add 1–2 sentences:
 - “Improve rate is high; harm rate is low.”
 - “Net improvement is positive across models.”
 -->
-
-### Qualitative examples: one success, one failure
+<!-- 
+### Qualitative examples: one success, one failure -->
 
 <!-- FIGURE 4 (from paper): tab:qual_examples
 Paste Figure~\ref{tab:qual_examples} here.
@@ -202,7 +202,7 @@ These are long; for a blog, consider:
 (3) show only the “decision rules” excerpt.
 -->
 
-Example layout:
+<!-- Example layout:
 
 <details>
 <summary><b>Claim decomposition prompt</b></summary>
@@ -214,9 +214,9 @@ Example layout:
 <details>
 <summary><b>Document–claim evaluation prompt</b></summary>
 
-(Paste Table~\ref{tab:evidence_evaluation_prompt} here)
+(Paste Table~\ref{tab:evidence_evaluation_prompt} here) -->
 
-</details>
+<!-- </details> -->
 
 ---
 
@@ -226,11 +226,11 @@ Example layout:
 - **Local inconsistency**: some “conflicts” are inside a single document rather than across documents.
 - **Reliability weighting**: models can be swayed by many low-quality sources; future work could integrate source credibility and recency.
 
-(If you want, you can copy in your Limitations paragraph almost verbatim here—blog readers appreciate honesty.)
+<!-- (If you want, you can copy in your Limitations paragraph almost verbatim here—blog readers appreciate honesty.) -->
 
 ---
 
-## Resources
+<!-- ## Resources
 
 - Paper: (link once public)
 - Code & data: (link once public)
@@ -251,4 +251,4 @@ Example layout:
 9. **Fig:tab:qual_examples** → “Qualitative examples”
 10. (Optional) **prompt tables** → appendix as collapsible blocks
 
----
+--- -->
