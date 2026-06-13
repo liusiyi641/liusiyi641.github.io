@@ -15,12 +15,13 @@ My research spans natural language processing and broader artificial intelligenc
 - **Retrieval, knowledge conflicts, and reasoning** — How can LLMs reason through conflicting knowledge from different sources (contextual/parametric knowledge)? [[ConflictScore](/files/ConflictScore.pdf), [Conflicting QA](/files/Open_Domain_Question_Answering_with_Conflicting_Contexts.pdf)]
 - **Perspectives and biases** — conflicts across different perspectives and opinions [[Multi-Perspective Search](/files/Multi-Perspective%20Search%20Engine.pdf), [MultiOpEd](https://aclanthology.org/2021.naacl-main.344/), [News Framing](https://aclanthology.org/K19-1047/)]
 
-Some of my other ongoing projects include:
+I'm passionate about building trustworthy AI systems and working on AI safety in general. Some of my other ongoing projects include:
 - [FloodRAG](/posts/2026/06/floodrag/) — can AI search survive a flood of machine-generated misinformation? Measuring how much fake web content it takes to make production RAG systems assert falsehoods
-- RL training code models with retrieval
-- Deepfake Video Detection
-- Representation Learning for Authorship Representation
+- [DeepFake Video Detection](https://deeptracereward.github.io/)
+
 
 Some of my other past projects include:
 - [Open Source Project (Core Contributor) - Distilled Generative Text Embedding Model](https://github.com/LC1332/Luotuo-Text-Embedding)
 - Framing Bias Detection
+- RL training code models with retrieval
+- Representation Learning for Authorship Representation
