@@ -16,7 +16,7 @@ My research spans natural language processing and broader artificial intelligenc
 - **Perspectives and biases** — conflicts across different perspectives and opinions [[Multi-Perspective Search](/files/Multi-Perspective%20Search%20Engine.pdf), [MultiOpEd](https://aclanthology.org/2021.naacl-main.344/), [News Framing](https://aclanthology.org/K19-1047/)]
 
 I'm passionate about building trustworthy AI systems and working on AI safety in general. Some of my other ongoing projects include:
-- [FloodRAG](/posts/2026/06/floodrag/) — can AI search survive a flood of machine-generated misinformation? Measuring how much fake web content it takes to make production RAG systems assert falsehoods
+- [Misinformation Attack](/posts/2026/06/misinformation-attack/) — can AI search survive a flood of machine-generated misinformation? Measuring how much fake web content it takes to make production RAG systems assert falsehoods
 - [DeepFake Video Detection](https://deeptracereward.github.io/)
 
 

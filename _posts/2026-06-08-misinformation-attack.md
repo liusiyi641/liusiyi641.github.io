@@ -1,7 +1,7 @@
 ---
-title: 'FloodRAG: Can AI Search Survive a Flood of Machine-Generated Misinformation?'
+title: 'Misinformation Attack: Can AI Search Survive a Flood of Machine-Generated Misinformation?'
 date: 2026-06-08
-permalink: /posts/2026/06/floodrag/
+permalink: /posts/2026/06/misinformation-attack/
 tags:
   - NLP
   - RAG
@@ -13,7 +13,7 @@ tags:
   - trustworthy AI
 ---
 
-> **TL;DR**: Modern AI assistants answer questions by retrieving from the live web (RAG), and they quietly assume the web is *trustworthy*. **FloodRAG** stress-tests that assumption: what happens when an adversary uses AI to flood the web with convincing-but-false content about an entity? I'm building an **ethical, fabricated-entity testbed** to measure exactly **how much fake content it takes to make production AI-search systems assert falsehoods** — a "vulnerability scaling law" for RAG.
+> **TL;DR**: Modern AI assistants answer questions by retrieving from the live web (RAG), and they quietly assume the web is *trustworthy*. **Misinformation Attack** stress-tests that assumption: what happens when an adversary uses AI to flood the web with convincing-but-false content about an entity? I'm building an **ethical, fabricated-entity testbed** to measure exactly **how much fake content it takes to make production AI-search systems assert falsehoods** — a "vulnerability scaling law" for RAG.
 >
 > *This is an ongoing project. This post describes the research questions, the experimental design, and what I'm building right now.*
 
@@ -29,13 +29,13 @@ Generative AI has made it cheap to mass-produce fluent, plausible, false content
 
 > **What if an adversary floods the web with AI-generated falsehoods about a target — and the AI dutifully repeats them as fact?**
 
-Call this the **misinformation flood**. Unlike a one-off prompt injection, it attacks the *information ecosystem* that RAG systems depend on. If a handful of fake articles can swing what an AI says about a person, a company, or a product, that's a real-world safety problem — especially for **ordinary, low-profile people** who have no protective web presence to drown out the noise.
+Call this the **misinformation attack**. Unlike a one-off prompt injection, it attacks the *information ecosystem* that RAG systems depend on. If a handful of fake articles can swing what an AI says about a person, a company, or a product, that's a real-world safety problem — especially for **ordinary, low-profile people** who have no protective web presence to drown out the noise.
 
 ---
 
 ## Three research questions
 
-**FloodRAG** is organized around three questions, moving from *measuring* the threat to *defending* against it:
+**Misinformation Attack** is organized around three questions, moving from *measuring* the threat to *defending* against it:
 
 1. **Vulnerability scaling.** How much does it take? Concretely: **how many fabricated articles must an adversary publish** before a production AI system produces false, untruthful claims about an entity?
 2. **Do existing defenses hold?** Certified and heuristic RAG defenses (RobustRAG, ReliabilityRAG, TrustRAG, AstuteRAG) promise robustness. **Do they actually survive the flood regime** — many coordinated malicious sources rather than a few?
@@ -47,7 +47,7 @@ This post focuses on **RQ1** — the measurement that makes everything else quan
 
 ## The core idea: attack *fabricated* entities, not real people
 
-The scientifically ideal experiment — pollute the web about a real target and see when the AI breaks — is also clearly unethical. The key design move in FloodRAG resolves this tension:
+The scientifically ideal experiment — pollute the web about a real target and see when the AI breaks — is also clearly unethical. The key design move in Misinformation Attack resolves this tension:
 
 > **Invent entities that don't exist, give them a believable web presence, confirm that production AI systems treat them as real, and then attack the *fabricated* entities.**
 
@@ -125,7 +125,7 @@ The fabricated-entity design is what makes this *defensible* — but it's lower-
 
 ## Why this matters
 
-If a small number of coordinated fake sources can reliably flip what production AI says about an entity, then "the model cites its sources" is a false comfort — and the people most exposed are exactly those without a strong web presence to defend them. FloodRAG aims to turn that worry into a **measured scaling law**: a number for how fragile RAG is, evidence on whether today's defenses can bend it, and a path toward a defense that can.
+If a small number of coordinated fake sources can reliably flip what production AI says about an entity, then "the model cites its sources" is a false comfort — and the people most exposed are exactly those without a strong web presence to defend them. Misinformation Attack aims to turn that worry into a **measured scaling law**: a number for how fragile RAG is, evidence on whether today's defenses can bend it, and a path toward a defense that can.
 
 > **From "we measured a number" to "we measured a scaling law that current defenses can't bend — and built one that can."**
 
