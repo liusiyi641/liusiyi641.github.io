@@ -129,4 +129,50 @@ If a small number of coordinated fake sources can reliably flip what production 
 
 > **From "we measured a number" to "we measured a scaling law that current defenses can't bend — and built one that can."**
 
-*Project status: actively building the entity testbed and measurement harness. I'll share results here as they come in.*
+---
+
+## Progress log
+
+**Aug 2026 — Entity ecosystems built and deployed.** I've stood up and deployed the first batch of fabricated-entity websites: player/entity sites, stats-style entries, and supporting fan pages that cross-link into indexable clusters. These are now live and entering the indexing/knownness-measurement phase (Phase 1). The deployed research sites are listed below.
+
+> ⚠️ **Disclaimer — these are fabricated research artifacts.** Every website linked below hosts **fictional content created solely for this research project**. The players, coaches, academies, tournaments, statistics, personas, and events on these sites are **entirely invented** and do **not** describe or refer to any real person, institution, or organization. Any resemblance to a real entity is coincidental and unintended. **Do not treat anything on these sites as factual**. They exist only to measure how AI-search systems handle synthetic web content and will be taken down after measurement.
+
+### Deployed research sites (in use)
+
+**Fabricated entities — sites & databases**
+
+- <https://aldenbrook.netlify.app>
+- <https://bramlee.netlify.app/>
+- <https://brindlemark.netlify.app>
+- <https://caelthorn.netlify.app>
+- <https://calverne.netlify.app>
+- <https://cindergrid.netlify.app>
+- <https://corolane.netlify.app/>
+- <https://corvath.netlify.app/>
+- <https://ellwickacademy.netlify.app>
+- <https://kairvane.netlify.app>
+- <https://kesterline.netlify.app>
+- <https://marnley.netlify.app>
+- <https://merasyl.netlify.app>
+- <https://orisetteacademy.netlify.app>
+- <https://orlein.netlify.app>
+- <https://orrivex.netlify.app>
+- <https://quorivane.netlify.app>
+- <https://sennvue.netlify.app>
+- <https://valescend.netlify.app/>
+- <https://vantrelle.netlify.app>
+
+**Fabricated players — profile sites**
+
+- <https://alina-morren.netlify.app/>
+- <https://davrik-tolsenne.netlify.app/>
+- <https://emil-kevir.netlify.app/>
+- <https://kira-orsenn.netlify.app/>
+- <https://luca-pellis.netlify.app>
+- <https://mireya-voss.netlify.app>
+- <https://noemi-calvett.netlify.app>
+- <https://rafael-delvar.netlify.app>
+- <https://sylvra-quenmark.netlify.app>
+- <https://tomas-sarnell.netlify.app>
+
+*Project status: entity testbed built and deployed; currently in the establishment / knownness-measurement phase. I'll update this log with dose-response results as they come in.*
