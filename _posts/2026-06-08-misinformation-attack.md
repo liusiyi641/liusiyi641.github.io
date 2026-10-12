@@ -223,4 +223,116 @@ Other caveats include unequal numbers of run-days across providers, configuratio
 - <https://sylvra-quenmark.netlify.app>
 - <https://tomas-sarnell.netlify.app>
 
-*Project status: the entity testbed is deployed and the initial establishment/visibility study is complete. The project is now moving from baseline measurement toward controlled misinformation dose-response experiments.*
+### Phase 2 attack articles (Substack)
+
+**Oct 2026 — Attack corpus deployed.** I published the second-phase articles across six controlled Substack publications to test how AI-search systems index, retrieve, and reason over coordinated claims.
+
+**Baseline Ledger**
+
+- <https://baselineledger.substack.com/p/luca-pellis__a05html>
+- <https://baselineledger.substack.com/p/luca-pellis__a03html>
+- <https://baselineledger.substack.com/p/luca-pellis__a04html>
+- <https://baselineledger.substack.com/p/noemi-calvett__a02html>
+- <https://baselineledger.substack.com/p/noemi-calvett__a03html>
+- <https://baselineledger.substack.com/p/rafael-delvar__a03html>
+- <https://baselineledger.substack.com/p/rafael-delvar__a02html>
+- <https://baselineledger.substack.com/p/kira-orsenn__a01html>
+- <https://baselineledger.substack.com/p/alina-morren__a01html>
+- <https://baselineledger.substack.com/p/luca-pellis__a02html>
+- <https://baselineledger.substack.com/p/noemi-calvett__a01html>
+- <https://baselineledger.substack.com/p/rafael-delvar__a01html>
+- <https://baselineledger.substack.com/p/luca-pellis__a01html>
+
+**Enterprise Risk Digest**
+
+- <https://enterpriseriskdigest.substack.com/p/valescend-bioanalytics__a05html>
+- <https://enterpriseriskdigest.substack.com/p/quorivane-robotics__a03html>
+- <https://enterpriseriskdigest.substack.com/p/orleincom__a03html>
+- <https://enterpriseriskdigest.substack.com/p/sennvuecom__a05html>
+- <https://enterpriseriskdigest.substack.com/p/valescend-bioanalytics__a04html>
+- <https://enterpriseriskdigest.substack.com/p/sennvuecom__a04html>
+- <https://enterpriseriskdigest.substack.com/p/corolanecom__a01html>
+- <https://enterpriseriskdigest.substack.com/p/valescend-bioanalytics__a03html>
+- <https://enterpriseriskdigest.substack.com/p/quorivane-robotics__a02html>
+- <https://enterpriseriskdigest.substack.com/p/valescend-bioanalytics__a02html>
+- <https://enterpriseriskdigest.substack.com/p/sennvuecom__a03html>
+- <https://enterpriseriskdigest.substack.com/p/orleincom__a02html>
+- <https://enterpriseriskdigest.substack.com/p/sennvuecom__a02html>
+- <https://enterpriseriskdigest.substack.com/p/quorivane-robotics__a01html>
+- <https://enterpriseriskdigest.substack.com/p/orleincom__a01html>
+- <https://enterpriseriskdigest.substack.com/p/valescend-bioanalytics__a01html>
+- <https://enterpriseriskdigest.substack.com/p/sennvuecom__a01html>
+
+**Methods Register**
+
+- <https://methodsregister.substack.com/p/orisette-academy__a05html>
+- <https://methodsregister.substack.com/p/calverneorg__a05html>
+- <https://methodsregister.substack.com/p/caelthorn-climate-institute__a03html>
+- <https://methodsregister.substack.com/p/orisette-academy__a04html>
+- <https://methodsregister.substack.com/p/calverneorg__a04html>
+- <https://methodsregister.substack.com/p/orisette-academy__a03html>
+- <https://methodsregister.substack.com/p/brindlemark-institute__a01html>
+- <https://methodsregister.substack.com/p/marnleyorg__a01html>
+- <https://methodsregister.substack.com/p/calverneorg__a03html>
+- <https://methodsregister.substack.com/p/caelthorn-climate-institute__a02html>
+- <https://methodsregister.substack.com/p/orisette-academy__a02html>
+- <https://methodsregister.substack.com/p/calverneorg__a02html>
+- <https://methodsregister.substack.com/p/caelthorn-climate-institute__a01html>
+- <https://methodsregister.substack.com/p/orisette-academy__a01html>
+- <https://methodsregister.substack.com/p/calverneorg__a01html>
+
+**Vendor Ledger**
+
+- <https://vendorledger.substack.com/p/cindergridcom__a05html>
+- <https://vendorledger.substack.com/p/merasyl-networks__a05html>
+- <https://vendorledger.substack.com/p/orrivex-systems__a03html>
+- <https://vendorledger.substack.com/p/cindergridcom__a04html>
+- <https://vendorledger.substack.com/p/merasyl-networks__a04html>
+- <https://vendorledger.substack.com/p/orrivex-systems__a02html>
+- <https://vendorledger.substack.com/p/merasyl-networks__a03html>
+- <https://vendorledger.substack.com/p/bramleecom__a03html>
+- <https://vendorledger.substack.com/p/cindergridcom__a03html>
+- <https://vendorledger.substack.com/p/kairvane-labs__a01html>
+- <https://vendorledger.substack.com/p/orrivex-systems__a01html>
+- <https://vendorledger.substack.com/p/merasyl-networks__a02html>
+- <https://vendorledger.substack.com/p/cindergridcom__a02html>
+- <https://vendorledger.substack.com/p/bramleecom__a02html>
+- <https://vendorledger.substack.com/p/bramleecom__a01html>
+- <https://vendorledger.substack.com/p/merasyl-networks__a01html>
+- <https://vendorledger.substack.com/p/cindergridcom__a01html>
+
+**Circuit Integrity Review**
+
+- <https://circuitintegrityreview.substack.com/p/tomas-sarnell__a05html>
+- <https://circuitintegrityreview.substack.com/p/sylvra-quenmark__a03html>
+- <https://circuitintegrityreview.substack.com/p/mireya-voss__a03html>
+- <https://circuitintegrityreview.substack.com/p/davrik-tolsenne__a01html>
+- <https://circuitintegrityreview.substack.com/p/tomas-sarnell__a04html>
+- <https://circuitintegrityreview.substack.com/p/emil-kevir__a01html>
+- <https://circuitintegrityreview.substack.com/p/tomas-sarnell__a03html>
+- <https://circuitintegrityreview.substack.com/p/sylvra-quenmark__a01html>
+- <https://circuitintegrityreview.substack.com/p/mireya-voss__a02html>
+- <https://circuitintegrityreview.substack.com/p/tomas-sarnell__a02html>
+- <https://circuitintegrityreview.substack.com/p/sylvra-quenmark__a02html>
+- <https://circuitintegrityreview.substack.com/p/mireya-voss__a01html>
+- <https://circuitintegrityreview.substack.com/p/tomas-sarnell__a01html>
+
+**Grant Governance Review**
+
+- <https://grantgovernancereview.substack.com/p/kesterlineorg__a05html>
+- <https://grantgovernancereview.substack.com/p/vantrelle-university__a05html>
+- <https://grantgovernancereview.substack.com/p/vantrelle-university__a04html>
+- <https://grantgovernancereview.substack.com/p/aldenbrook-research-institute__a01html>
+- <https://grantgovernancereview.substack.com/p/corvathorg__a01html>
+- <https://grantgovernancereview.substack.com/p/ellwickacademyorg__a03html>
+- <https://grantgovernancereview.substack.com/p/kesterlineorg__a04html>
+- <https://grantgovernancereview.substack.com/p/ellwickacademyorg__a02html>
+- <https://grantgovernancereview.substack.com/p/vantrelle-university__a03html>
+- <https://grantgovernancereview.substack.com/p/kesterlineorg__a03html>
+- <https://grantgovernancereview.substack.com/p/vantrelle-university__a02html>
+- <https://grantgovernancereview.substack.com/p/kesterlineorg__a02html>
+- <https://grantgovernancereview.substack.com/p/ellwickacademyorg__a01html>
+- <https://grantgovernancereview.substack.com/p/vantrelle-university__a01html>
+- <https://grantgovernancereview.substack.com/p/kesterlineorg__a01html>
+
+*Project status: the entity testbed and Phase 2 attack corpus are deployed. I am now measuring attack indexing, retrieval, and dose-response behavior across AI-search systems.*
